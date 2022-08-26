@@ -1,7 +1,5 @@
 import React from 'react';
-
 import InboxScreen from './InboxScreen';
-
 import store from '../lib/store';
 import { rest } from 'msw';
 import { MockedState } from './TaskList.stories';
