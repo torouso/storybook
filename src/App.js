@@ -1,5 +1,6 @@
  import logo from './logo.svg';
- import './App.css';
+//  import './App.css';
+ import './App.less';
  import './index.css';
  import store from './lib/store';
  import { Provider } from 'react-redux';

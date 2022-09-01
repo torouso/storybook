@@ -21,10 +21,13 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
     "@testing-library/user-event": "^13.2.1",
+    "antd": "^4.22.8",
+    "craco-less": "^2.0.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-redux": "^8.0.2",
     "react-scripts": "5.0.1",
+    "storybook-addons-abstract": "^6.2.1",
     "web-vitals": "^2.1.0"
   },
   "scripts": {
@@ -80,10 +83,13 @@
     "@storybook/testing-library": "^0.0.11",
     "babel-plugin-named-exports-order": "^0.0.2",
     "chromatic": "^6.7.4",
+    "customize-cra": "^1.0.0",
     "msw": "^0.42.0",
     "msw-storybook-addon": "^1.6.3",
     "prop-types": "^15.8.1",
+    "react-app-rewired": "^2.2.1",
     "react-test-renderer": "^18.2.0",
+    "storybook-addon-xd-designs": "^6.0.0",
     "webpack": "^5.73.0"
   },
   "msw": {

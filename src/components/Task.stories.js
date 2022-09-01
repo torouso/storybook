@@ -34,3 +34,13 @@ Archived.args = {
     state: 'TASK_ARCHIVED',
   },
 };
+export const Archived3 = Template.bind({});
+Archived3.args = {
+  task: {
+    ...Default.args.task,
+    title: 'error',
+    // state: '333TASK_ARCHIVED',
+  },
+};
+
+

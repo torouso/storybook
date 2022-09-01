@@ -1,4 +1,7 @@
 import '../src/index.css';
+// import 'antd/dist/antd.css';
+// import '../assets/styles/antd.less';
+// require('../assets/styles/antd.less');
 
 // Registers the msw addon
 import { initialize, mswDecorator } from 'msw-storybook-addon';
